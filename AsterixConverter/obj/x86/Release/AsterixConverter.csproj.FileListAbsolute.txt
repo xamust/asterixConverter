@@ -1,0 +1,8 @@
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\bin\Release\AsterixConverter.exe
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\bin\Release\AsterixConverter.pdb
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\obj\x86\Release\AsterixConverter.exe
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\obj\x86\Release\AsterixConverter.pdb
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\obj\x86\Release\AsterixConverter.exe
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\obj\x86\Release\AsterixConverter.pdb
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\bin\Release\AsterixConverter.exe
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\bin\Release\AsterixConverter.pdb

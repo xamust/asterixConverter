@@ -1,0 +1,18 @@
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\bin\Debug\AsterixConverter.exe
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\bin\Debug\AsterixConverter.pdb
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\obj\x86\Debug\AsterixConverter.exe
+C:\Users\орл-а\AppData\Local\Temporary Projects\AsterixConverter\obj\x86\Debug\AsterixConverter.pdb
+H:\- DATAx -\ЭРТОС\MyProjectC#\WindowsFormsApplication1\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.exe
+H:\- DATAx -\ЭРТОС\MyProjectC#\WindowsFormsApplication1\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.pdb
+H:\- DATAx -\ЭРТОС\MyProjectC#\WindowsFormsApplication1\AsterixConverter\AsterixConverter\bin\Debug\AsterixConverter.exe
+H:\- DATAx -\ЭРТОС\MyProjectC#\WindowsFormsApplication1\AsterixConverter\AsterixConverter\bin\Debug\AsterixConverter.pdb
+C:\Users\орл-а\Desktop\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.exe
+C:\Users\орл-а\Desktop\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.pdb
+C:\Users\орл-а\Desktop\AsterixConverter\AsterixConverter\bin\Debug\AsterixConverter.exe
+C:\Users\орл-а\Desktop\AsterixConverter\AsterixConverter\bin\Debug\AsterixConverter.pdb
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.exe
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.pdb
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.csprojResolveAssemblyReference.cache
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\bin\Debug\AsterixConverter.exe
+H:\- DATAx -\ЭРТОС\AsterixConverter\AsterixConverter\bin\Debug\AsterixConverter.pdb
+C:\Users\орл-а\Desktop\AsterixConverter\AsterixConverter\obj\x86\Debug\AsterixConverter.csprojResolveAssemblyReference.cache
